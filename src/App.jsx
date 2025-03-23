@@ -11,8 +11,13 @@ function App() {
       <head>
         <body>
           
-          <button class="botaofixo">
-            </button>
+        <button class="botaofixo">
+    <a class="whatsapp" href="https://api.whatsapp.com/send?phone=5548984115443&text=Olá,%20quero%20saber%20mais!" target="_blank">
+        <span class="abrirwhats"> Chamar no WhatsApp </span>
+    </a>
+</button>
+
+
 
           <nav class="menu">
           
@@ -38,7 +43,7 @@ function App() {
             </ul>
           </nav>
           <div id="" class="Home">
-            <img src="/paty2.svg" alt="Fotobook" />
+            <img src="/fotopaty.svg" alt="Fotobook" />
             <h1>Contabilidade é poder contar com pessoas, conte com a <p>PsContabilidade</p></h1>
           </div>
           <div className="container">

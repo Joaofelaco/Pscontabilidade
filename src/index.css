@@ -7,6 +7,10 @@ body {
     overflow-x: hidden; 
     box-sizing: border-box; 
   }
+  .abrirwhats {
+    visibility: hidden;
+    display: flex; 
+  }
   img{
     max-width: 100%;
   }
@@ -48,5 +52,5 @@ body {
     border: none;
     cursor: pointer;
     position: fixed;
-    bottom: 20px;
-    }
+    bottom: 20px;}
+    

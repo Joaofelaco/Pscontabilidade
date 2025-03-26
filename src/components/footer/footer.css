@@ -1,0 +1,44 @@
+footer {
+  background-color: #86aabe36;
+  /* Fundo escuro */
+  color: #000000;
+  /* Texto branco */
+  padding: 20px;
+  /* Espaçamento interno */
+  text-align: center;
+  /* Centraliza o texto */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  border: 2px solid;
+
+}
+
+footer a {
+  color: #f39c12;
+  /* Cor dos links */
+  text-decoration: none;
+  /* Remove sublinhado */
+  font-weight: bold;
+  /* Destaque nos links */
+}
+
+footer a:hover {
+  color: #ffd700;
+  /* Cor mais clara ao passar o mouse */
+}
+
+footer p {
+  color: #000000;
+  margin: 10px 2px;
+  /* Espaçamento entre parágrafos */
+  font-size: 14px;
+  /* Tamanho do texto */
+}
+
+footer p a {
+  margin: 0 5px;
+  /* Espaçamento entre os links de contato e redes sociais */
+}

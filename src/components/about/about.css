@@ -1,0 +1,12 @@
+.sobre{
+    border: 2px solid;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 2rem;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.6);
+}
+h1, h2, h3 {
+    text-align: center;
+    font-size: 1.5rem
+}

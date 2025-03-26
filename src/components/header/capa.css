@@ -1,0 +1,27 @@
+img {
+  width: 100%;
+  max-width: 100%;
+  }
+
+.frase {
+  position: absolute;
+  top: 100%;
+  /* centraliza o texto verticalmente */
+  left: 30%;
+  /* centraliza o texto horizontalmente */
+  transform: translate(-50%, -50%);
+  /* ajusta para o centro exato */
+  color: rgb(53, 53, 53);
+  /* cor do texto */
+  font-size: 30px;
+  /* ajuste o tamanho do texto */
+  
+  /* adiciona um sombreado */
+  
+}
+
+.ps{
+  color: rgb(53, 53, 53);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  
+}

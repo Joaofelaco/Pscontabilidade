@@ -1,0 +1,19 @@
+.blog-container{
+    display: flex; /* Faz os cards ficarem lado a lado */
+    justify-content: space-between; /* Espaço uniforme entre os cards */
+    flex-wrap: wrap; /* Garante que os cards se ajustem ao espaço disponível */
+    gap: 20px; /* Espaçamento entre os cards (opcional) */
+    margin: 20px auto;
+    grid-auto-columns: auto;
+    border: 2px solid;
+  }
+  .blog-card{
+    width: 300px; /* Largura de cada card */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #86AABE;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 
+                0 1px 3px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s, box-shadow 0.3s;
+    border: 2px solid;
+  }

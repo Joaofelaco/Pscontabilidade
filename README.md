@@ -12,9 +12,6 @@ Botão Interativo de WhatsApp: Integrado à API do WhatsApp para enviar mensagen
 Formulário de Contato: Permite enviar dúvidas e mensagens através do e-mail.
 
 Tecnologias Utilizadas
-HTML5
-
-CSS3
 
 JavaScript
 
